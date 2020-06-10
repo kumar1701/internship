@@ -14,7 +14,7 @@ from findAttenuatedSaliencyFromPeak import *
 from findAttenuatedSaliency import *
 from numpy import savetxt
 
-img=cv2.imread("i1.jpeg",1)
+img=cv2.imread("i9.jpeg",1)
 #cv2.imshow("input",img)
 dims=(200,200)
 
